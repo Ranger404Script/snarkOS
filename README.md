@@ -1,16 +1,3 @@
-<p align="center">
-    <img alt="snarkOS" width="1412" src="https://cdn.aleo.org/snarkos/banner.png">
-</p>
-
-<p align="center">
-    <a href="https://circleci.com/gh/AleoHQ/snarkOS"><img src="https://circleci.com/gh/AleoHQ/snarkOS.svg?style=svg"></a>
-    <a href="https://codecov.io/gh/AleoHQ/snarkOS"><img src="https://codecov.io/gh/AleoHQ/snarkOS/branch/master/graph/badge.svg?token=cck8tS9HpO"/></a>
-    <a href="https://discord.gg/aleo"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
-    <a href="https://twitter.com/AleoHQ"><img src="https://img.shields.io/twitter/follow/AleoHQ?style=social"/></a>
-    <a href="https://GitHub.com/AleoHQ/snarkOS"><img src="https://img.shields.io/badge/contributors-59-ee8449"/></a>
-</p>
-
-## <a name='TableofContents'></a>Table of Contents
 
 * [1. Overview](#1-overview)
 * [2. Build Guide](#2-build-guide)
